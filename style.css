@@ -289,7 +289,7 @@
 }
 
 .review-2-1{
-    /* border: 2px solid rgba(0, 0, 0, 0.104); */
+    border: 2px solid rgba(0, 0, 0, 0.060);
     background-color: rgba(248,248,248,255);
     height: 190px;
     width: 340px;
@@ -324,4 +324,34 @@
     font-weight: bold;
 }
 
+.main-3{
+    background-color: rgba(128, 128, 128, 0.233);
+    height: 280px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
+}
+
+.main-3-0{
+    background-color: white;
+    width: 98.50%;
+    height: 280px;
+}
+
+.main-3-1{
+    margin:10px 0px 9px 10px; 
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main-3-2{
+    display: flex;
+    justify-content: space-around;
+    height: max-content;
+}
+
+.main-3-2 img{
+    width: 238px;
+}
