@@ -6,11 +6,18 @@
 }
 
 .header-1 {
+    width: 100%;
     background-color: black;
     height: 50px;
     display: flex;
     justify-content: center;
 }
+
+/* .header{
+    top: 0;
+    position: fixed;
+    width: 100%;
+} */
 
 
 .div-1 {
@@ -77,6 +84,7 @@
 }
 
 .header-2 {
+    /* margin-top: 50px; Adds space below .header-1 */
     background-color: #232f3e;
     height: 27px;
     display: flex;
@@ -156,6 +164,23 @@
     justify-content: space-evenly;
     align-items: center;
     border-bottom: 1px solid rgba(128, 128, 128, 0.221);
+}
+
+.div-4-2 div,
+.div-4-3 div,
+.div-4-4 div,
+.div-4-5 div{
+    width: 130px;
+    height: 140px;
+}
+
+.div-4-2 div:hover,
+.div-4-3 div:hover,
+.div-4-4 div:hover,
+.div-4-5 div:hover
+{
+
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 .div-4-2 img,
@@ -248,6 +273,13 @@
 .div-5-3-2 div img{
     width: 130px;
     height: 170px;
+}
+
+.div-5-1-2 div img:hover,
+.div-5-2-2 div img:hover,
+.div-5-3-2 div img:hover
+{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 .div-5-3-2-4, .div-5-3-2-5{
@@ -356,6 +388,10 @@
     width: 238px;
 }
 
+.main-3-2 img:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
 .footer{
     background-color: rgba(128, 128, 128, 0.233);
     width: 100%;
@@ -435,3 +471,8 @@
     line-height: 25px;
     font-weight: bold;
 }
+
+/* img:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+} */
+
