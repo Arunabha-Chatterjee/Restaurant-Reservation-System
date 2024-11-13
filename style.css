@@ -13,11 +13,11 @@
     justify-content: center;
 }
 
-/* .header{
+.header{
     top: 0;
     position: fixed;
     width: 100%;
-} */
+}
 
 
 .div-1 {
@@ -124,6 +124,7 @@
     background-color: black;
     align-items: baseline;
     justify-content: center;
+    margin-top: 77px;
 }
 
 .div-3 img {
