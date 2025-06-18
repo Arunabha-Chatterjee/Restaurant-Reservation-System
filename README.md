@@ -15,7 +15,6 @@ A full-stack web application that allows users to browse menus, reserve time slo
     
 -   **Build Tools**: Maven (backend), Vite (frontend)
     
--   **Deployment**: (Optional) Docker, Render, Vercel, or Netlify
     
 
 ----------
