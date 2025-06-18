@@ -7,11 +7,11 @@ A full-stack web application that allows users to browse menus, reserve time slo
 
 ## 🚀 Tech Stack
 
--   **Frontend**: React, Tailwind CSS, Axios, React Router
+-   **Frontend**: React, Tailwind CSS, Axios
     
 -   **Backend**: Spring Boot, Spring Security, JPA/Hibernate
     
--   **Database**: MySQL
+-   **Database**: PostgreSQL
     
 -   **Build Tools**: Maven (backend), Vite (frontend)
     
